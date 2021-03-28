@@ -1,0 +1,13 @@
+@media (mix-width: 1440px) {
+    .top-wrapper {
+    text-align: center;
+    }
+.wrapper {
+    display: inline-block;
+    vertical-align: middle;
+    }
+.wrapper-2 {
+    display: inline-block;
+    vertical-align: middle;
+    }
+}

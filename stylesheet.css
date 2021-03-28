@@ -1,0 +1,140 @@
+
+body {
+    background-color: hsl(0, 0%, 98%);
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+p {
+    color: hsl(229, 6%, 66%);
+}
+
+h3 {
+    color: hsl(234, 12%, 34%);
+}
+
+.top-wrapper {
+    margin-top: 20px;
+}
+h1 {
+    color: hsl(229, 6%, 66%);
+    font-weight: lighter;
+    font-size: 35px;
+    margin: 10px 325px 0 325px;
+    display: inline-block;
+    margin: 10px 325px 0 325px;
+    width: 500px;
+}
+
+h2 {
+    font-weight: semibold;
+    font-size: 36px;
+    margin: 10px 325px 0 325px;
+    color: hsl(234, 12%, 34%);
+    display: inline-block;
+    margin: 10px 325px 0 325px;
+    width: 500px;
+}
+
+h3 {
+    font-weight: medium;
+    font-size: 20;
+}
+
+.p {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    vertical-align: middle;
+    width: 550px;
+    margin: 10px 325px 50px 475px;
+    text-align: center;
+    font-weight: lighter;
+    font-size: 16;
+   
+  }
+
+
+/* bagian wrapper */
+.wrapper {
+    display: flex;
+    flex-direction: row;
+    top: 70px;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+    flex-wrap: wrap;
+}
+
+/* bagian wrapper2 */
+
+.wrapper2 {
+    display: flex;
+    flex-direction: column;
+    vertical-align: middle;
+    flex-wrap: wrap;
+}
+
+.box-satu {
+  background-color: white;
+  display: inline-block;
+  width: 325px;
+  margin: 10px;
+  padding: 25px;
+  text-align: left;
+  border-radius: 8px;
+  border-top-style: solid;
+  border-top-width: 5px;
+  border-top-color: hsl(180, 62%, 55%);
+  box-shadow: 0px 6px 23px -8px rgba(0,0,0,0.30);
+}
+
+.box-dua {
+  background-color: white;
+  display: inline-block;
+  width: 325px;
+  margin: 10px;
+  padding: 25px;
+  text-align: left;
+  border-radius: 8px;
+  border-top-style: solid;
+  border-top-width: 5px;
+  border-top-color: red;
+  box-shadow: 0px 6px 23px -8px rgba(0,0,0,0.47);
+
+}
+
+.box-tiga {
+  background-color: white;
+  display: inline-block;
+  width: 325px;
+  margin: 10px;
+  padding: 25px;
+  text-align: left;
+  border-radius: 8px;
+  border-top-style: solid;
+  border-top-width: 5px;
+  border-top-color: hsl(34, 97%, 64%);
+ box-shadow: 0px 6px 23px -8px rgba(0,0,0,0.47);
+
+}
+
+.box-empat {
+  background-color: white;
+  display: inline-block;
+  width: 325px;
+  margin: 10px;
+  padding: 25px;
+  text-align: left;
+  border-radius: 8px;
+  border-top-style: solid;
+  border-top-width: 5px;
+  border-top-color: hsl(212, 86%, 64%);
+ box-shadow: 0px 6px 23px -8px rgba(0,0,0,0.47);
+
+}
+
+
+.wrapper img {
+  float: right;
+}
